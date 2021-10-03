@@ -33,4 +33,10 @@ This is a curated list of papers about Graph Neural Networks and Geometric Deep 
 3. **Graph Neural Networks with Generated Parameters for Relation Extraction**. *Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua and Maosong Sun.* ***ACL 2019*** [[pdf](https://arxiv.org/abs/1902.00756)]
 
 4. **GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction**. *Tsu-Jui Fu, Peng-Hsuan Li and Wei-Yun Ma*. ***ACL 2019*** [[pdf](https://tsujuifu.github.io/projs/acl19_graph-rel.html)] [[code](https://github.com/tsujuifu/pytorch_graph-rel)]
-5. 
+
+### Knowledge Graph
+
+1. **Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks**. *Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao and Christos Faloutsos.* ***KDD 2019*** [[pdf](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)]
+
+2. **Hashing Graph Convolution for Node Classification**. *Wenting Zhao, Zhen Cui, Chunyan Xu, Chengzheng Li, Tong Zhang，Jian Yang.*  ***CIKM 2019*** [[pdf](https://easychair.org/publications/preprint/lhT3)]
+
