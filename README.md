@@ -1,6 +1,21 @@
-# 🧬 GNN Curation Research Papers
+<p align="center">
+    <h1 align="center">🧬 GNN Curation Research Papers</h1>
+</p>
 
-This is a curated list of papers about Graph Neural Networks and Geometric Deep Learning. Contributions for new papers and topics are welcome!
+<p align="center">This is a curated list of papers about Graph Neural Networks and Geometric Deep Learning. Contributions for new papers and topics are welcome!</p>
+
+***
+
+<p align="center">
+    <b><a href="README.md#papers">Papers</a></b>
+    |
+    <b><a href="README.md#courses">Courses</a></b>
+    |
+    <b><a href="README.md#tools">Tools</a></b>
+</p>
+
+***
+## Papers
 
 ### Fundamental NLP Tasks
 
@@ -50,4 +65,14 @@ This is a curated list of papers about Graph Neural Networks and Geometric Deep 
 1. **Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks**. *Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao and Christos Faloutsos.* ***KDD 2019*** [[pdf](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)]
 
 2. **Hashing Graph Convolution for Node Classification**. *Wenting Zhao, Zhen Cui, Chunyan Xu, Chengzheng Li, Tong Zhang，Jian Yang.*  ***CIKM 2019*** [[pdf](https://easychair.org/publications/preprint/lhT3)]
+
+## Courses
+
+[CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#content)
+
+## Tools
+
+[Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+
+[PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric)
 
